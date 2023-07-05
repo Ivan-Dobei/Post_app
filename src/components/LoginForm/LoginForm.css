@@ -1,0 +1,18 @@
+.loginForm {
+    display: block;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 1px solid teal;
+    border-radius: 15px;
+}
+
+.loginForm__title {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.loginForm__input {
+    margin-bottom: 15px;
+}
